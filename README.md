@@ -9,8 +9,6 @@ with Windows API.
 
 ```C++
 
-#pragma comment(lib, "IEProxy.lib");
-
 #include "IEProxy.h";
 
 using namespace ie_proxy;
